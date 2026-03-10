@@ -53,5 +53,6 @@ Prof: Julio Cartier Maia Gomes
 Disciplina: Programação para Dispositivos Móveis em Android
 
 ## Conteudos da Disciplina
+Aula 3: aprendendo git
 
 
