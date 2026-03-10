@@ -48,5 +48,8 @@ Raphael Rodrigues Silva
 
 Curso: Análise e Desenvolvimento de Sistemas
 
+Prof: Julio Cartier Maia Gomes
+
+Disciplina: Programação para Dispositivos Móveis em Android
 
 
